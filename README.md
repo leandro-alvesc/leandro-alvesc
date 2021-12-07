@@ -1,11 +1,9 @@
-# Sobre 🌱
-- Olá, me chamo Leandro
-- Sou estudante de Análise e Desenvolvimento de Sistemas 💻
-- Atualmente meu foco é em JavaScript e Python
-- Estou interessado em Desenvolvimento Web
-- Meus repositórios têm tanto estudos quanto projetos
+# About 🌱
+- Hi! I'm Leandro
+- I am a web developer 💻
+- Focused on JavaScript (Vue.js/React.js) and Python (Flask/Django)
 
-Até mais!
+See ya!
 
 <!---
 leandro-alvesc/leandro-alvesc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
