@@ -1,7 +1,7 @@
 # About 🌱
 - Hi! I'm Leandro
-- I'm a Web Developer 💻
-- Focused on JavaScript (Vue.js/React.js) and Python (Flask/Django)
+- Web Developer 💻
+- Focused on Python (Flask/Django) and JavaScript (Vue.js/React.js)
 
 See ya!
 
