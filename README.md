@@ -1,7 +1,7 @@
 # About 🌱
 - Hi! I'm Leandro
-- Web Developer - Full-stack 💻
-- Focused on Python (Flask/Django) and JavaScript (Vue.js/React.js)
+- Back-end Developer 💻
+- Python (Flask/Django), JavaScript (Node.js, Vue.js), Java (SpringBoot)
 
 See ya!
 
