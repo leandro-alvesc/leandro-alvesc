@@ -1,7 +1,11 @@
 # About 🌱
 - Hi! I'm Leandro
 - Back-end Developer 💻
-- Python (Flask/Django), JavaScript (Node.js, Vue.js), Java (SpringBoot)
+- Python (Flask/Django/FastAPI)
+- JavaScript (Node.js, Vue.js)
+- Java (SpringBoot)
+- php (Laravel)
+- C# (.NET, ASP.NET)
 
 See ya!
 
