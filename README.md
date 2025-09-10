@@ -2,14 +2,13 @@
 - Back-end Developer 💻
 
 - Languages:
-  - Python (Flask/Django/FastAPI)
-  - JavaScript (Node.js, Vue.js)
+  - Python (Flask/Django/FastAPI/Scripting)
+  - JavaScript (Node.js, Nest.js, Vue.js)
   - Java (SpringBoot)
   - php (Laravel)
   - C# (.NET, ASP.NET)
 - Databases
-  - PostgreSQL
-  - MySQL
+  - PostgreSQL / MySQL
   - MongoDB
   - Firestore
   - Redis
@@ -19,7 +18,7 @@
   - Microservices
   - Kafka, Pub/Sub
   - DDD, MVC
-  - Gitflow, Trunk-based
+  - Gitflow, Feature Branching, Trunk-based
   - REST API, gRPC
   - Jenkins, Github Actions, CI/CD
   - Unit tests, Integration tests
